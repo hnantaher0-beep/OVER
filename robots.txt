@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://over-cud.pages.dev/sitemap.xml
